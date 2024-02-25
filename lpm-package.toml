@@ -7,4 +7,4 @@ licence = "MIT"
 name = "test-lpm-package"
 repository = ""
 version = "1.0.0"
-dependencies = {"Spearhead-Industries/test-lpm-package"}
+dependencies = ["Spearhead-Industries/test-lpm-package"] #lol
