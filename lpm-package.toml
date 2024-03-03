@@ -8,4 +8,4 @@ name = "test-lpm-package"
 repository = ""
 version = "1.0.0"
 dependencies = ["Spearhead-Industries/lpm-dep-2"]
-include = ["/src/**"]
+include = ["src/**"]
